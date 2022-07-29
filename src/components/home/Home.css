@@ -1,0 +1,22 @@
+.body-container{
+    width: 95%;
+    display: grid;
+    grid-template-columns: 95%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.food-container{
+    display: grid;
+    grid-template-columns: 50% 40%;
+}
+
+.todaysFoods{
+    margin: 2% 5%;
+}
+
+.list-item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

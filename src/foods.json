@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Apple",
+    "calories": 81,
+    "image": "https://pngimg.com/uploads/apple/apple_PNG12423.png",
+    "quantity": 0
+  },
+  {
+    "name": "Banana",
+    "calories": 105,
+    "image": "https://pngimg.com/uploads/banana/banana_PNG846.png",
+    "quantity": 0
+  },
+  {
+    "name": "Dates",
+    "calories": 228,
+    "image": "http://www.pngall.com/wp-content/uploads/4/Organic-Dates-PNG-Free-Download.png",
+    "quantity": 0
+  },
+  {
+    "name": "Grapes (1 cup)",
+    "calories": 114,
+    "image": "https://pngimg.com/uploads/grape/grape_PNG2960.png",
+    "quantity": 0
+  },
+  {
+    "name": "Biscuit",
+    "calories": 103,
+    "image": "https://assets.stickpng.com/images/580b57fbd9996e24bc43c0f4.png",
+    "quantity": 0
+  },
+  {
+    "name": "Chocolate",
+    "calories": 208,
+    "image": "https://assets.stickpng.com/images/580b57fbd9996e24bc43c0db.png",
+    "quantity": 0
+  },
+  {
+    "name": "Noodles",
+    "calories": 159,
+    "image": "https://www.pngfind.com/pngs/m/48-486367_bowl-of-noodles-png-noodles-png-transparent-png.png",
+    "quantity": 0
+  },
+  {
+    "name": "Raisins",
+    "calories": 302,
+    "image": "https://www.pngpix.com/download/18314",
+    "quantity": 0
+  },
+  {
+    "name": "Wheat Bread",
+    "calories": 55,
+    "image": "https://purepng.com/public/uploads/large/purepng.com-sliced-wheat-breadfood-wheat-bread-wholemeal-bread-bread-sliced-bread-941524637683ilg8q.png",
+    "quantity": 0
+  },
+  {
+    "name": "Orange",
+    "calories": 65,
+    "image": "https://pluspng.com/img-png/orange-hd-png-download-png-image-orange-png-clipart-744.png",
+    "quantity": 0
+  },
+  {
+    "name": "Waffles",
+    "calories": 130,
+    "image": "https://pngimg.com/uploads/waffle/waffle_PNG49.png",
+    "quantity": 0
+  }
+]

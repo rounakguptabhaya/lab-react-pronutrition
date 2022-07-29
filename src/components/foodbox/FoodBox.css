@@ -1,0 +1,26 @@
+.box{
+    width: 90%;
+    background-color: lightgray;
+    border: 1px solid #5f27cd;
+    margin-top : 5%;
+    border-radius: 3px;
+}
+
+.image{
+    width: 15%;
+}
+
+.media{
+    display: flex;
+    flex-direction: row;
+    padding: 2%;
+    justify-content: space-around;
+    align-items: center;
+    text-align: left;
+}
+
+.input{
+    border: 2px solid #5f27cd;
+    height: 3vh;
+    border-radius: 5px;
+}
